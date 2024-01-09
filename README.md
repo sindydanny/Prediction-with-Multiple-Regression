@@ -15,30 +15,30 @@ This repository presents an advanced project, focusing on building a multiple li
 1. **Machine Learning Life Cycle:**
      
      * Followed industry-standard Machine Learning Life Cycle steps.
-     * EDA and Transformations:
+2. **EDA and Transformations**
      * Conducted comprehensive EDA on the dataset.
      * Applied necessary transformations to improve profit predictions.
        
-2. **Graphs and Interpretation:**
+3. **Graphs and Interpretation:**
 
      * Utilized Seaborn for EDA graphs.
      * Provided detailed interpretations of each graph.
        
-3. **Code and Print Statements:**
+4. **Code and Print Statements:**
 
      * Ensured proper documentation with print statements.
      * Rounded numbers appropriately.
 
-4. **Model Evaluation:**
+5. **Model Evaluation:**
 
      * Prepared a table containing R^2 values for each prepared model.
 
-5. **GitHub Repository:**
+6. **GitHub Repository:**
 
      * Named the repository "Prediction with Multiple Regression."
      * Uploaded zip folders containing datasets, graphs, and the .ipynb file.
   
-6. **Readme File:**
+7. **Readme File:**
 
      * Details about the use case, tools used, and insights gathered.
      * Keywords: Regression, EDA, Multiple Regression, Profit Prediction.
